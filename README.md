@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing websites using HTML,CSS and JS.
 - 🌱 I’m currently learning react Js 
 - 💞️ I’m looking to collaborate on website development
-- 📫 How to reach me sivagnanasowndarya@gmail.com
+- 📫 reach me at sivagnanasowndarya@gmail.com
 
 <!---
 AmmuRamasubramanian/AmmuRamasubramanian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
